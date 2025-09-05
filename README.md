@@ -8,6 +8,7 @@ SQL · Python · SAS · SAP · Power BI · Tableau · Excel(advance)
 ## 📌 Featured Projects
 - 🛡️ Product and customer Trends (SQL) — improved detection accuracy by 35%
 - 📊 Sales KPI Dashboard (Python) — real-time visibility into pipeline & product trends
+- 🤖 Machine Learning Model (Python) - Netflix machine learning model to understand Customer preferences 
 - 🧾 Wells fargo Loan Trends (Power BI) — reduced cycle time by 20%
 - 🔁 Warren Group Consulting Project (SAS) — identified churn drivers; boosted retention
 
