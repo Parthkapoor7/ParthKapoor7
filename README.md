@@ -13,4 +13,4 @@ SQL · Python · SAS · SAP · Power BI · Tableau · Excel(advance)
 - 🔁 Warren Group Consulting Project (SAS) — identified churn drivers; boosted retention
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/parth-kapoor9/) • [Email](mailto:parthkapoor25@outlook.com)<!--
+[LinkedIn](https://www.linkedin.com/in/parth-kapoor9/) • [Email](mailto:parthkapoor25@outlook.com)
