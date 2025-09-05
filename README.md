@@ -3,7 +3,7 @@ Business & Data Analyst skilled in Excel(advance), SQL, Python, SAS, SAP, and Po
 I turn raw data into insights, dashboards, and models that drive measurable impact.
 
 ## 🔧 Tools
-SQL · Python · SAS · SAP · Power BI · Excel · Tableau · Excel(advance)
+SQL · Python · SAS · SAP · Power BI · Tableau · Excel(advance)
 
 ## 📌 Featured Projects
 - 🛡️ Product and customer Trends (SQL) — improved detection accuracy by 35%
