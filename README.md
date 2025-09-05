@@ -1,5 +1,5 @@
 # Hi, I'm Parth 👋
-Business & Data Analyst skilled in Excel(advance), SQL, Python, SAS, SAP, Excel and Power BI.  
+Business & Data Analyst skilled in Excel(advance), SQL, Python, SAS, SAP and Power BI.  
 I turn raw data into insights, dashboards, and models that drive measurable impact.
 
 ## 🔧 Tools
