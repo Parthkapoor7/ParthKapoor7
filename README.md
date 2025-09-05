@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
+Business & Data Analyst skilled in Excel(advance), SQL, Python, SAS, SAP, and Power BI.  
+I turn raw data into insights, dashboards, and models that drive measurable impact.
 
-<!--
-**Parthkapoor7/ParthKapoor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools
+SQL · Python · SAS · SAP · Power BI · Excel · Tableau · Excel(advance)
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- 🛡️ Product and customer Trends (SQL) — improved detection accuracy by 35%
+- 📊 Sales KPI Dashboard (Python) — real-time visibility into pipeline & product trends
+- 🧾 Wells fargo Loan Trends (Power BI) — reduced cycle time by 20%
+- 🔁 Warren Group Consulting Project (SAS) — identified churn drivers; boosted retention
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/parth-kapoor9/) • [Email](mailto:parthkapoor25@outlook.com)<!--
